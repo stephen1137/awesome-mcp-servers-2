@@ -213,6 +213,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Pearch](https://github.com/Pearch-ai/mcp_pearch)** - Best people search engine that reduces the time spent on talent discovery.
 - **[Perplexity](https://github.com/ppl-ai/modelcontextprotocol)** - An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI.
 - **[PGYER](https://github.com/PGYER/pgyer-mcp-server)** - MCP Server for [PGYER](https://www.pgyer.com/) platform, supports uploading, querying apps, etc.
+- **[PHPRay](https://github.com/stephen1137/phpray)** - Ask why a PHP site is slow: every recorded request with its SQL fingerprints, outbound HTTP calls, PHP errors and N+1 patterns. Runs on shared hosting without root; the hosted endpoint `https://phpray.dev/mcp` answers from a real WooCommerce fleet with no key.
 - **[PlainSignal](https://github.com/plainsignal/plainsignal-mcp)** - Official MCP server that connects to PlainSignal's API and querying realtime website analytics data in conversational AI.
 - **[Plane](https://github.com/makeplane/plane-mcp-server)** - The official Plane MCP server provides integration with Plane APIs, enabling full AI automation of Plane projects, work items, cycles and more.
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server
